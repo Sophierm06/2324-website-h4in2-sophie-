@@ -1,5 +1,8 @@
 body {
 	background-color:#95bbd5;
+   background-image: url('https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.productosalba.es%2Fpatroon-in-de-stijl-van-delfts-blauw-tt-3203042&psig=AOvVaw2gIhBpj-fZuzdbs-KjPMQE&ust=1705584504259000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCPjT2snD5IMDFQAAAAAdAAAAABAq');
+   height: 100vh; 
+   width: 100vw; 
 }
 
 H1{
@@ -40,10 +43,7 @@ article {
    float: left;
 }
 
-#foto {
 
-
-}
 footer {
    width: 90%;
    height: 50px;
