@@ -5,7 +5,7 @@ body {
 H1{
    height: 50; 
    width: 90%; 
-   background-color: #3E58FF;
+   background-color: rgb(83, 162, 214);
    font: verdana; 
    color:   #000000
  }
@@ -13,9 +13,9 @@ H1{
 header {
    width: 1000px;
    height: 50px;
-   background-color: #59AFFF;
+   background-color: #ffffff;
    font-family: verdana; 
-   color: #ffffff;
+   color: #000000;
    font-size: 30px;
    float: left;
 }
@@ -23,7 +23,7 @@ header {
 article {
    width: 1000px;
    height: 600px;
-   background-color: #59AFFF;
+   background-color: #ffffff;
    font-family: verdana;
    font-size: 15px;
    color: #000000;
@@ -33,7 +33,7 @@ article {
 #article2 {
    width: 600px;
    height: 600px;
-   background-color: #59AFFF;
+   background-color: #ffffff;
    font-family: verdana;
    font-size: 15px;
    color: #000000;
@@ -51,7 +51,7 @@ footer {
 }
 
 header, article, picture, #article2, footer {
-	border:1px solid grey;
-	background-color:#59AFFF;
+	border:1px solid rgb(83, 162, 214);
+	background-color:#ffffff;
 	margin: 5px;
 }
